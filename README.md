@@ -1,4 +1,4 @@
-# iOS Tech Challenge - Take Home Challenge
+# iOS Junior Tech Challenge - Take Home Challenge
 
 Thank you for your interest in taking the iOS Tech Challenge.
 
@@ -56,7 +56,7 @@ Here are the design specs for the unpinned transaction view and the pin/unpin ic
 
 ![tech_challenge_images 005](./img/tech_challenge_images.005.png)
 
-### 4. Update the chart and list in the insights tab to reflect expense in each category
+### 4. Update the list in the insights tab to reflect expense in each category
 
 The insights view should only consider pinned transactions.
 
